@@ -1,2 +1,8 @@
-# Ignorar configuracion local
+# Configuración exclusiva del equipo
+config/config.local.php
 conexion.php
+
+# Archivos que generemos
+logs/
+temps/
+*.log
